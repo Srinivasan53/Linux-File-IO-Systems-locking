@@ -75,10 +75,11 @@ int main(int argc, char *argv[]) {
 
 ```
 ## OUTPUT:
-<img width="724" height="191" alt="image" src="https://github.com/user-attachments/assets/30cff62c-4897-4793-8094-f035907a9f2a" />
-<img width="802" height="123" alt="image" src="https://github.com/user-attachments/assets/cb75bb3e-6d97-4455-ac8f-081ebf7671ad" />
+
+<img width="426" height="203" alt="Screenshot at 2025-11-16 06-46-29" src="https://github.com/user-attachments/assets/d03f9274-19c9-485a-a88e-c63f6a1cabaf" />
 
 
+<img width="472" height="164" alt="Screenshot at 2025-11-16 06-46-44" src="https://github.com/user-attachments/assets/289ef460-b2f4-4c5a-8411-48d2b6c2144f" />
 
 
 
@@ -157,11 +158,12 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT:
-<img width="1035" height="801" alt="image" src="https://github.com/user-attachments/assets/31b09d56-ba79-4ce5-ab18-708a0ef1e1b6" />
-<img width="1035" height="522" alt="image" src="https://github.com/user-attachments/assets/78916500-14c1-4261-8829-d9ba21c78276" />
 
+<img width="955" height="901" alt="Screenshot at 2025-11-16 06-50-23" src="https://github.com/user-attachments/assets/fac52fe9-bbcf-4ca5-9548-933bb7dce199" />
 
+<img width="1085" height="879" alt="Screenshot at 2025-11-16 06-50-47" src="https://github.com/user-attachments/assets/61b5e49c-fa9e-4599-8ddb-30ba061fd229" />
 
+<img width="967" height="749" alt="Screenshot at 2025-11-16 06-50-59" src="https://github.com/user-attachments/assets/71dce386-a2c3-4a08-93e6-83cda74399cc" />
 
 
 
